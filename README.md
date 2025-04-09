@@ -12,7 +12,7 @@
 - 🌱 Currently exploring **React.js**, **Node.js**, and **Cloud Platforms** like GCP
 - 💡 Passionate about creating secure, meaningful tech solutions like my [Password Manager](https://github.com/ritikavyas/Password-Manager)
 - 🧠 Strong interests in Web Dev, Cybersecurity, and Backend APIs
-- 📫 Reach me at **ritikavyas99@gmail.com**
+- 📫 Reach me at **rvyas2305@gmail.com*
 
 ---
 
