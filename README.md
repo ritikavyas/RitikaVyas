@@ -44,7 +44,7 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritika%20Vyas-blue?logo=linkedin)](https://www.linkedin.com/in/ritika-vyas)
+[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/ritika-vyas-a80a941ba/)
 
 
 ---
